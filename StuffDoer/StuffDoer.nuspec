@@ -4,8 +4,8 @@
     <id>StuffDoer</id>
     <version>1.0.0</version>
     <readme>README.md</readme>
-    <authors>Parker Stovall</authors>
-    <projectUrl>https://github.com/mjh-pstovall/package-creation-template/</projectUrl>
+    <authors>Marc</authors>
+    <projectUrl>https://github.com/mal-thedataagency/package-creation-template/</projectUrl>
     <description>It Does Stuff! (TM)</description>
   </metadata>
   <files>
